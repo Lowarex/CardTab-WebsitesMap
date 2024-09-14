@@ -1,4 +1,4 @@
-const HTML_CONTENT = `<!DOCTYPE html>
+.const HTML_CONTENT = `<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
